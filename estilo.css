@@ -11,3 +11,6 @@ body {
   h2 {
     text-align: center;
   }
+  html {
+    background: lightblue url("/home/erinec/Documents/html-cs/IMG/EX.jpeg");
+  }  
