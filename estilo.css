@@ -1,7 +1,7 @@
 
 body {
     text-align: justify;
-   
+   color: white;
   }
   
   h1 {
@@ -12,5 +12,10 @@ body {
     text-align: center;
   }
   html {
-    background: lightblue url("/home/erinec/Documents/html-cs/IMG/EX.jpeg");
+    background: rgb(46, 48, 48) url("/home/erinec/Documents/html-cs/IMG/index.jpeg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
   }  
+
+  
+  
