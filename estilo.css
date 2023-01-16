@@ -5,7 +5,7 @@
 
 body {
     text-align: justify;
-   color: white;
+   color: black;
   }
   
   h1 {
@@ -17,13 +17,20 @@ body {
     text-align: center;
   }
   
-  
   html {
-    background: black
-  }  
+    background: url("/home/erinec/Documents/html-cs/IMG/GYM.jpeg");
+    background-repeat: no-repeat;
+    background-size: 750px;
 
+    
+
+  }
+    
  
-  
+  div { display: flex; }
+
+p { flex: 1; border: black 1px solid; margin: 2px; }
+
   
   
   
