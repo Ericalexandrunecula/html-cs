@@ -5,7 +5,7 @@
   
   body {
       text-align: justify;
-     color: white;
+     color:black;
     }
     
     h1 {
@@ -19,6 +19,6 @@
     
     
     html {
-      background: black
+      background: url("IMG/ROCK.jpg")
     }
     

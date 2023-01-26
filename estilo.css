@@ -18,7 +18,7 @@
     }
     
     html {
-      background: url("IMG/man-person-structure-people-equipment-room-825379-pxhere.com.jpg");
+      background: url("IMG/pr.jpg");
       background-repeat: no-repeat;
       background-size: 2000px;
       background-color: black;
@@ -28,23 +28,16 @@
     }
       
   
-    div.p1 {
-      background-color: #ffffeb;
-      height: 350px;
-      width: 350px;
+    .IMGP1 {
+      height: 250px;
+      width: 250px;
       margin: 30px;
+      
     }
-    div.p3{
-      background-color: #d8af97;
-      height: 350px;
-      width: 350px;
-      margin: 30px;
-
-    }
-    div.p2 {
-      background-color: #ecd6c0;
-      height: 350px;
-      width: 350px; 
+    
+    .IMGP2 {
+      height: 250px;
+      width: 250px; 
       margin: 30px;
 
   }
